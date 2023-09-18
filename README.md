@@ -1,2 +1,2 @@
 # AI4Science
-AI for Science
+WIP Collaboration space. Check back soon :)

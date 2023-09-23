@@ -1,63 +1,83 @@
-# AI4Science :microscope: :robot:
+# **AI4Science**
 
-Welcome to the AI4Science h Repository! This repository aims to be a comprehensive resource for deploying AI in scientific research. It includes documentation, scripts, Terraform templates, Ansible playbooks, Dockerfiles, and much more.
+![AI4Science_Banner](AA_Newsletter_Banner.jpg)
 
-## :book: Table of Contents
+## Latest Updates
 
-- [Getting Started](#rocket-getting-started)
-- [Repository Structure](#file_folder-repository-structure)
-- [Contributing](#handshake-contributing)
-- [License](#page_with_curl-license)
-- [Acknowledgements](#star2-acknowledgements)
+* [2023/09/23] Repository created and hosted on <u>[GitHub](https://github.com/astitvac/AI4Science)</u>
 
-## :rocket: Getting Started
+<!-- This is a comment in Markdown -->
+Welcome to the **AI4Science** repository! This repository is designed to help researchers use AI for scientific research. The goal of this repository is to curate a list of resources that can be used for building **Repeatable Research Containers** (RRCs) for scientific research.
 
-1. **Clone the Repository**
+### What is an RRC?
 
-    ```
-    git clone https://github.com/yourusername/AI-in-Scientific-Research-Repo.git
-    ```
+An RRC is a container that contains all of the code, data, and documentation needed to reproduce a scientific result on any kind of computing infrastructure. RRCs are designed to be self-contained, portable, and easy to use. They can be used to reproduce a result, verify a result, or build upon a result.
 
-2. **Navigate to the Repository**
+For a detailed explanation of RRCs, please see the following article
+<u>[AI4Science Newsletter - Edition2](https://www.linkedin.com/newsletters/7109641758220697602/?displayConfirmation=true)</u>
 
-    ```
-    cd AI-in-Scientific-Research-Repo
-    ```
+## Table of Contents
 
-3. **Install Dependencies** (if applicable)
+* [Resources for AI4Science](#resources-for-ai4science)
+>
+>* [Tutorials](#tutorials)
+>* [Open Source respositories](#open source repositories)
+>* [Datasets](#datasets)
+>* [Models](#models)
+>
+* [How to build an RRC](#how-to-build-an-rrc)
+>
+* [Contributing](#contributing)
+* [License](#license)
 
-    ```
-    pip install -r requirements.txt
-    ```
+## Resources for AI4Science
 
-4. **Follow the [Documentation](./docs/getting-started.md) for More Details**
+If you're new to AI or scientific research, we recommend starting with the resources and tutorials listed in this README. These will provide you with a solid foundation for using AI in your research.<u>This resources list is not exhaustive and will be updated reularly through contributions from the community.</U>
 
-## :file_folder: Repository Structure
+### Tutorials
 
-Here's how this repository is organized:
+Here are some resources that can help you learn more about AI and scientific research:
 
-- `docs/`: Documentation on how to use this repository.
-- `notebooks/`: Jupyter notebooks with example analyses and tutorials.
-- `scripts/`: Utility scripts.
-- `terraform/`: Terraform templates for infrastructure as code.
-- `ansible/`: Ansible playbooks for automated setup.
-- `docker/`: Dockerfiles and related code.
-- `kubernetes/`: Kubernetes configuration files.
-- `yaml-configs/`: Miscellaneous YAML configuration files.
-- `example-projects/`: Sample projects.
+#### <u>[Jupyter Hub Tips and Tricks](https://github.com/jbwhit/jupyter-tips-and-tricks)</u>
 
-## :handshake: Contributing
+ Jupyter Notebooks are a great way to share code and data with others. They can be used to create interactive tutorials, share code, and collaborate on projects. This repository contains tips and tricks for using Jupyter Notebooks effectively.
 
-We welcome contributions from everyone. Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request or opening an issue. You can also check the `good first issue` and `help wanted` labels in the [Issues tab](https://github.com/yourusername/AI-in-Scientific-Research-Repo/issues) for a good starting point.
+*[AI for Science Whitepaper](https://www.microsoft.com/en-us/research/publication/ai-for-science-whitepaper/)
 
-## :page_with_curl: License
+* [AI for Science Summit](https://www.microsoft.com/en-us/research/event/ai-for-science-summit/)
+* [AI for Science Community](https://www.microsoft.com/en-us/ai/ai-for-science)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Open source repositories
 
-## :star2: Acknowledgements
+Here are some repositories that contain code related to AI and scientific research:
 
-Special thanks to everyone who contributed to this project. For a list of people who have contributed, see the [contributors](https://github.com/yourusername/AI-in-Scientific-Research-Repo/graphs/contributors) page.
+* [Microsoft Research AI](https://github.com/Microsoft/ai)
+* [Google Research](https://github.com/google-research)
+* [OpenAI](https://github.com/openai)
 
----
+### Datasets
 
-Built with :heart: by [Your Name](https://yourwebsite.com) | :octocat: [Github](https://github.com/yourusername) | :bird: [Twitter](https://twitter.com/yourhandle)
+Here are some datasets that can be used for AI and scientific research:
+
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+
+### Models
+
+Here are some pre-trained models that can be used for AI and scientific research:
+
+* [TensorFlow Hub](https://tfhub.dev/)
+* [PyTorch Hub](https://pytorch.org/hub/)
+
+## How to build an RRC
+
+I would start by using <u>[Jupyter](#jupyter-hub-tips-and-tricks)</u> to create a notebook that contains all of the code, data, and documentation needed to reproduce a result. This notebook can then be converted into an RRC using the [RRC Builder](
+
+## Contributing
+
+We welcome contributions from the community! If you have a resource, repository, dataset, tutorial, or model that you would like to add to this repository, please see our [contributing guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).

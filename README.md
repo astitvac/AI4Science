@@ -1,8 +1,8 @@
-# **AI4Science**
+# **AI4Science** 
 
 ![AI4Science_Banner](AA_Newsletter_Banner.jpg)
 
-## Latest Updates
+## 🔔 Latest Updates
 
 * [2023/09/23] Repository created and hosted on <u>[GitHub](https://github.com/astitvac/AI4Science)</u>
 

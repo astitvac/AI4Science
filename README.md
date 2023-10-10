@@ -7,7 +7,7 @@
 * [2023/09/23] Repository created and hosted on <u>[GitHub](https://github.com/astitvac/AI4Science)</u>
 
 <!-- This is a comment in Markdown -->
-Welcome to the **AI4Science** repository! This repository is designed to help researchers use AI for scientific research. The goal of this repository is to curate a list of resources that can be used for building **Repeatable Research Containers** (RRCs) for scientific research.
+Welcome to the **AI4Science** repository! This repository is designed to be a collaborative sandbox for exploring AI4Science containers.The goal is to collect and design **Repeatable Research containers** that combine **Data** **Software** **Compute** into portable, secure and self contained AI4Science workflows.   
 
 ### What is an RRC?
 
@@ -18,14 +18,12 @@ For a detailed explanation of RRCs, please see the following article
 
 ## Table of Contents
 
-* [Resources for AI4Science](#resources-for-ai4science)
+* [Repeatable Research Containers](#)
+* [Open Source respositories](#)
+* [Datasets](#datasets)
 >
->* [Tutorials](#tutorials)
->* [Open Source respositories](#open source repositories)
->* [Datasets](#datasets)
->* [Models](#models)
->
-* [How to build an RRC](#how-to-build-an-rrc)
+* [Research Papers](#)
+* [](#)
 >
 * [Contributing](#contributing)
 * [License](#license)

@@ -480,3 +480,52 @@ This repository is licensed under the [MIT License](LICENSE).
     - **Registration**: Free to join. Sign up with Google or Email.
     - **Resources**: Access to [Datasets](https://www.kaggle.com/datasets), [Competitions](https://www.kaggle.com/competitions), and [Code Notebooks](https://www.kaggle.com/code).
 
+### [Data Commons: Unifying Public Data](https://www.datacommons.org/)
+
+1. **Original Authors / Resource Creators**: An initiative from various partners, including academic and governmental organizations.
+2. **AI4Science Usage**: 
+    - **Data Integration**: Provides cloud-based APIs to access and integrate cleaned datasets, useful for scientific research.
+    - **Domain-Specific Data**: Offers data in various domains like economics, demographics, health, and sustainability.
+    - **Equity Metrics**: Includes data on various equity aspects, which can be crucial for research on social determinants of health or economic disparities.
+3. **Deployment/Usage Guidelines**: 
+    - **Getting Started**: Visit their [Documentation](https://www.datacommons.org/documentation) for API usage and tutorials.
+    - **Data Tools**: Utilize tools like [Map Explorer](https://www.datacommons.org/tools/map) and [Scatter Plot Explorer](https://www.datacommons.org/tools/scatter) for data visualization.
+
+### [Papers with Code: A Free and Open Resource for ML Research](https://paperswithcode.com/about)
+
+1. **Original Authors / Resource Creators**: Core team based in Meta AI Research, created and managed by Robert, Ross, Marcin, Elvis, Guillem, Andrew, and Thomas.
+2. **AI4Science Usage**: 
+    - **Research Papers & Code**: Provides an extensive collection of machine learning papers along with their code implementations, beneficial for scientific research.
+    - **Evaluation Tables**: Offers evaluation metrics and tables for various machine learning tasks, aiding in the comparison of different approaches.
+    - **Community Contributions**: Allows anyone to contribute, making it a dynamic and up-to-date resource.
+3. **Deployment/Usage Guidelines**: 
+    - **Contribution**: Look for the "Edit" buttons to contribute code implementations, evaluation tables, or tasks.
+    - **License**: All content is openly licensed under CC-BY-SA.
+
+### [NLP Progress: Tracking the State-of-the-Art in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
+
+1. **Original Authors / Resource Creators**: Created and maintained by Sebastian Ruder and contributors.
+2. **AI4Science Usage**: 
+    - **Comprehensive NLP Tasks**: Covers both traditional and core NLP tasks, useful for scientific research in linguistics, psychology, and other disciplines.
+    - **Benchmark Datasets**: Provides an overview of state-of-the-art datasets and methods for various NLP tasks.
+    - **Quick Overview**: Aims to give researchers a quick overview of benchmark datasets and the state-of-the-art for their task of interest.
+3. **Deployment/Usage Guidelines**: 
+    - **Contribution**: You can contribute by clicking the edit button on the top-right corner of the file for the respective task.
+    - **License**: MIT license.
+
+### [Amazon Lightsail for Research: Simplified Cloud Computing for Academics](https://docs.aws.amazon.com/lightsail-for-research/latest/ug/what-is-lfr.html)
+
+1. **Original Authors / Resource Creators**: Amazon Web Services, Inc.
+2. **AI4Science Usage**: 
+    - **Pre-Installed Research Apps**: Comes with pre-installed research applications like RStudio and Scilab, useful for data analysis in scientific research.
+    - **On-Demand Computing**: Allows creation and deletion of virtual computers at any time, providing flexible computing resources for research.
+    - **Budgeting Controls**: Offers cost controls to automatically stop the computer when a preconfigured limit is reached, aiding in budget management for research projects.
+3. **Deployment/Usage Guidelines**: 
+    - **Getting Started**: Upload data directly from a web browser to begin work. More details in their [official documentation](https://docs.aws.amazon.com/lightsail-for-research/latest/ug/what-is-lfr.html).
+    - **Pricing**: Pay only for the resources you create and use. More on [Lightsail for Research pricing](https://docs.aws.amazon.com/lightsail-for-research/latest/ug/what-is-lfr.html).
+
+### [Project Quay: A Container Image Registry](https://github.com/quay/quay)
+1. **Original Authors / Resource Creators**: Developed by CoreOS, now maintained by Red Hat
+2. **AI4Science Usage**: Project Quay can be instrumental in managing container images for AI workflows in scientific research. It supports various storage backends, security vulnerability analysis, and is highly extensible, making it suitable for complex research environments.
+3. **Deployment/Usage Guidelines**: Project Quay can be deployed on-premises or in the cloud. It supports LDAP, Keystone, OIDC, Google, and GitHub for authentication. For installation, you can use Kubernetes with the Quay Operator. Detailed documentation is available [here](https://access.redhat.com/documentation/en-us/red_hat_quay/3/).
+

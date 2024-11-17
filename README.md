@@ -1,6 +1,6 @@
 # **AI4Science**
 
-![AI4Science_Banner](AA_Newsletter_Banner1.jpg)
+![AI4Science_Banner](AA_Newsletter_Banner1.png)
 
 ## 🔔 Latest Updates
 

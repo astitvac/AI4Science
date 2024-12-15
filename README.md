@@ -1,6 +1,6 @@
 # **AI4Science**
 
-![AI4Science_Banner](AA_Newsletter_Banner1.jpg)
+![AI4Science_Banner](AA_Newsletter_Banner1.png)
 
 ## 🔔 Latest Updates
 
@@ -8,33 +8,6 @@
 
 <!-- This is a comment in Markdown -->
 Welcome to the **AI4Science** repository! This repository is designed to be a collaborative sandbox for exploring AI4Science containers.The goal is to collect and design **Repeatable Research containers** that combine **Data** **Software** **Compute** into portable, secure and self contained AI4Science workflows.   
-
-## Using LLMs for Peer Review
-
-* [LLM-scientific-feedback](https://github.com/weixin-liang/llm-scientific-feedback) 
-
-Can LLMs be used as substitutes for peer review in scientific publishing? This repository contains code for training LLMs on scientific papers and evaluating their performance on peer review tasks.
-
-
-
-### What is an RRC?
-
-An RRC is a container that contains all of the code, data, and documentation needed to reproduce a scientific result on any kind of computing infrastructure. RRCs are designed to be self-contained, portable, and easy to use. They can be used to reproduce a result, verify a result, or build upon a result.
-
-For a detailed explanation of RRCs, please see the following article
-<u>[AI4Science Newsletter - Edition2](https://www.linkedin.com/newsletters/7109641758220697602/?displayConfirmation=true)</u>
-
-## Table of Contents
-
-* [Repeatable Research Containers](#)
-* [Open Source respositories](#)
-* [Datasets](#datasets)
->
-* [Research Papers](#)
-* [](#)
->
-* [Contributing](#contributing)
-* [License](#license)
 
 ## Resources for AI4Science
 
@@ -71,8 +44,6 @@ Here are some resources that can help you learn more about AI and scientific res
 3. **Deployment/Usage Guidelines**: The dataset is available through the [Semantic Scholar Public API](https://www.semanticscholar.org/product/api) as a "Bulk Dataset". For more details on how to download and use it, refer to the [Download Instructions](https://github.com/allenai/s2orc#download-instructions).
 4. **License**: Released under the [ODC-By 1.0 License](https://opendatacommons.org/licenses/by/1-0/). By using S2ORC, you agree to the terms in the license.
 
-
-
 Here are some repositories that contain code related to AI and scientific research:
 
 * [Microsoft Research AI](https://github.com/Microsoft/ai)
@@ -82,8 +53,6 @@ Here are some repositories that contain code related to AI and scientific resear
 ### Datasets
 
 * [Data Commons](https://datacommons.org/)
-
-
 
 Here are some datasets that can be used for AI and scientific research:
 
@@ -97,18 +66,6 @@ Here are some pre-trained models that can be used for AI and scientific research
 
 * [TensorFlow Hub](https://tfhub.dev/)
 * [PyTorch Hub](https://pytorch.org/hub/)
-
-## How to build an RRC
-
-I would start by using <u>[Jupyter](#jupyter-hub-tips-and-tricks)</u> to create a notebook that contains all of the code, data, and documentation needed to reproduce a result. This notebook can then be converted into an RRC using the [RRC Builder](
-
-## Contributing
-
-We welcome contributions from the community! If you have a resource, repository, dataset, tutorial, or model that you would like to add to this repository, please see our [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 ### [Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences](https://myaidrive.com/ZDhXiAHUcqD7yVbo/rives-et-al-.pdf)
 
@@ -265,6 +222,11 @@ This repository is licensed under the [MIT License](LICENSE).
 3. **Deployment/Usage Guidelines**: The toolkit supports various VM images like HPC CentOS 7, HPC Rocky Linux 8, Debian 11, and Ubuntu 20.04 LTS. It can be deployed using Terraform scripts provided in the repository. Detailed documentation and examples are available for ease of use.
 4. **License**: Apache-2.0
 
+### Using LLMs for Peer Review
+
+* [LLM-scientific-feedback](https://github.com/weixin-liang/llm-scientific-feedback) 
+
+Can LLMs be used as substitutes for peer review in scientific publishing? This repository contains code for training LLMs on scientific papers and evaluating their performance on peer review tasks.
 
 ### [Generative AI by Google Cloud Platform](https://github.com/GoogleCloudPlatform/generative-ai)
 

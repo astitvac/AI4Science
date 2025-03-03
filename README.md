@@ -1,15 +1,15 @@
-# Welcome to Aavishkar.ai! 🚀
+# Welcome to AI4Science! 🚀
 
 <!-- Add the Aavishkar.ai banner image here -->
 ![AI4Science_Banner](./assets/AA_Newsletter_Banner1.png)
 
 ## AI-Powered Expert Systems for Scientific Research
 
-Hello! Whether you're a seasoned researcher or just starting your scientific journey, we're thrilled to have you here. Aavishkar.ai is your friendly companion in scientific research - think of it as having a knowledgeable research assistant available 24/7, powered by cutting-edge AI technology but always keeping human expertise at the center.
+Hello! Whether you're a seasoned researcher or a citizen scientist just starting your scientific journey, we're thrilled to have you here. Aavishkar.ai is your friendly companion in scientific research - we are a small community driven effort that seeks to promote more collaboration between Scientists and Technologists. 
 
-## 🌟 What Makes Aavishkar.ai Special?
+## 🌟 Building with AI for Science
 
-We combine the power of Large Language Models (LLMs) with scientific expertise to create tools that feel natural to use while maintaining rigorous scientific standards. Our expert systems help you:
+We combine the power of Large Language Models (LLMs) with Human Scientific expertise to create templatized "Expert Systems" as tools for scientific tasks.  that feel natural to use while maintaining rigorous scientific standards. Our expert systems help you:
 
 - **Explore Literature More Effectively**: Like having a tireless research assistant who can read thousands of papers and find the connections you need
 - **Design Better Experiments**: Get suggestions and validation for your experimental designs, ensuring robust methodology

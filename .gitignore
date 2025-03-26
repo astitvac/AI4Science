@@ -43,3 +43,24 @@ ENV/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Project-specific directories
+Experiments/
+
+# Expert System cache directories
+**/cache/
+**/.cache/
+**/test_cache/
+**/litsynth_cache/
+**/flagged/
+
+# LLM API cache directories
+**/*_cache/
+
+# Temporary files for all expert systems
+**/temp/
+**/tmp/
+
+# Large binary or data files
+# Uncomment if needed (consider keeping small test files)
+# **/Test_Data/

@@ -1,6 +1,6 @@
 # 🧩 Aavishkar.ai Data Models Library
 
-![AI4Science_Banner](https://github.com/aavishkar-ai/expert-systems/raw/main/assets/AA_Main_Banner.jpg)
+![AI4Science_Banner](https://github.com/aavishkar-ai/expert-systems/raw/main/Assets/AA_Main_Banner.jpg)
 
 > **Reusable Pydantic Models for Scientific Expert Systems**
 

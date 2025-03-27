@@ -64,3 +64,59 @@ Experiments/
 # Large binary or data files
 # Uncomment if needed (consider keeping small test files)
 # **/Test_Data/
+
+# API Keys and credentials
+*api_key*
+*apikey*
+*secret*
+*credential*
+*password*
+*auth_token*
+*config.json
+*secrets.json
+*secrets.yaml
+*secrets.yml
+key.json
+service-account*.json
+
+# Log files
+*.log
+logs/
+logging/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*~
+*.bak
+*.backup
+*.old
+
+# Output and results directories that might contain sensitive data
+**/results/
+**/outputs/
+**/private_data/
+**/user_data/
+
+# Personally identifiable information
+**/personal/
+**/private/
+**/PII/
+
+# Generated tokens and session files
+.tokens/
+*_token.txt
+*_token.json
+.cookie
+.session
+.httr-oauth
+
+# LLM-specific files that might contain sensitive prompts or outputs
+*prompt_log*
+*completion_log*
+*openai_log*
+*anthropic_log*
+*llm_cache*

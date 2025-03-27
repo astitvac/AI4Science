@@ -1,7 +1,7 @@
 
 # 🚀 Contributing to Aavishkar.ai - AI4Science
 
-![AI4Science_Banner](./assets/AA_Main_Banner.jpg)
+![AI4Science_Banner](./Assets/AA_Main_Banner.jpg)
 
 > **Help us build powerful AI-powered expert systems for scientific research**
 

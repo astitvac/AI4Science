@@ -1,6 +1,6 @@
 # Aavishkar.ai - AI4Science 🚀
 
-![AI4Science_Banner](./assets/AA_Main_Banner.jpg)
+![AI4Science_Banner](./Assets/AA_Main_Banner.jpg)
 
 > **AI-Powered Expert Systems for Scientific Research**
 
